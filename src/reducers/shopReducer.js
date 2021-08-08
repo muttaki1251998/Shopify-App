@@ -1,4 +1,4 @@
-import { FETCH_PRODUCTS } from "../actions/types"
+import { FETCH_PRODUCTS } from "../actions/type"
 import _ from 'lodash';
 
 export default (state={}, action) => {
